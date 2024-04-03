@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Color de fondo pastel */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #add8e6; /* Color de fondo celeste */
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #4682b4; /* Marco de 2px sólido en color azul acero */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #6b5b95; /* Color de texto pastel */
+}
+
+main section {
+    background-color: #add8e6; /* Color de fondo celeste */
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #4682b4; /* Marco de 1px sólido en color azul acero */
+    border-radius: 5px;
+    font-style: italic; /* Letra cursiva */
+}
+
+footer {
+    background-color: #add8e6; /* Color de fondo celeste */
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #4682b4; /* Marco de 2px sólido en color azul acero */
+}
